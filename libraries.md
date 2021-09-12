@@ -9,3 +9,4 @@ An opinionated list of libraries we use in our projects and recommend.
 1. [sentry_flutter](https://pub.dev/packages/sentry_flutter) – error reporting.
 1. [collection](https://pub.dev/packages/collection) – collection utilities.
 1. [provider](https://pub.dev/packages/provider) – mainly, as a service locator.
+1. [flutter_gen](https://pub.dev/packages/flutter_gen) – for compile-time safe assets.
